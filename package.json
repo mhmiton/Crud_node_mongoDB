@@ -1,0 +1,25 @@
+{
+  "name": "node_crud",
+  "version": "1.0.0",
+  "description": "Building a Simple CRUD Application with Express and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "Node",
+    "Crud",
+    "MongoDB",
+    "Express",
+    "Server"
+  ],
+  "author": "Mehediul Hassan Miton",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0-beta4"
+  }
+}
